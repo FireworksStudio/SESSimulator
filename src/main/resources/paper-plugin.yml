@@ -1,0 +1,7 @@
+name: SESSimulator
+version: '1.0.0'
+main: io.github.fireworksstudio.sessimulator.SESSimulator
+bootstrapper: io.github.fireworksstudio.sessimulator.Bootstrapper
+api-version: '1.21'
+prefix: SESSimulator
+authors: [FireworksStudio]
